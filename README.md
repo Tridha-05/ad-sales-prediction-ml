@@ -1,4 +1,5 @@
 # Ad Sales Prediction using Linear Regression
+Live App: https://ad-sales-prediction-ml-adkqocxu6yhinhjarugzhh.streamlit.app/
 
 This project predicts product sales based on advertising expenditure across different media channels using a Linear Regression model. A simple and interactive Streamlit web app is provided to make predictions.
 
@@ -19,17 +20,17 @@ This project predicts product sales based on advertising expenditure across diff
 ## How to Run the Project
 
 1. Clone the repository
-git clone https://github.com/Tridha-05/ad-sales-prediction-ml.git
+-git clone https://github.com/Tridha-05/ad-sales-prediction-ml.git
 
 2. Navigate to the project folder
-cd ad-sales-prediction-ml
+-cd ad-sales-prediction-ml
 
 3. Install required dependencies
-pip install streamlit pandas numpy scikit-learn
+-pip install streamlit pandas numpy scikit-learn
 
 
 4. Run the Streamlit app
-streamlit run lr_app.py
+-streamlit run lr_app.py
 
 
 ## Output
